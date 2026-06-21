@@ -129,7 +129,7 @@ Ecommerce-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
-<img width="100%" alt="https://github.com/Anuragp7155/Ecommerce-sales-dashboard-powerbi/blob/main/EcommerceSalesBI_img.jpeg?raw=true">
+![Image Alt]()
 
 ---
 
