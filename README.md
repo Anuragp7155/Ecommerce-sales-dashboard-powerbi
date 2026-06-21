@@ -162,7 +162,7 @@ Aspiring Data Analyst skilled in:
 
 ### 📬 Connect with Me
 
-- LinkedIn: www.linkedin.com/in/anurag-patil-7b5877280
+- LinkedIn: www.linkedin.com/in/anurag-patil561
 - GitHub: github.com/AnuragPatil
 
 ---
