@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive E-Commerce Sales Dashboard developed using Power BI to analyze online sales performance and uncover actionable business insights. The dashboard enables stakeholders to monitor key metrics, identify sales trends, evaluate profitability, and understand customer purchasing behavior through dynamic and interactive visualizations.
+This project presents an interactive E-Commerce Sales Dashboard developed using Power BI to analyze online sales performance and uncover actionable business insights. The dashboard enables stakeholders to monitor key metrics, identify sales trends, evaluate profitability, and understand customer purchasing behavior through dynamic and interactive visualizations. 
 
 The project demonstrates practical skills in data modeling, dashboard design, data visualization, and business intelligence.
 
